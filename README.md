@@ -1,63 +1,65 @@
 <div align="center">
 
-<!-- ══════════════════════════════════════════════════ -->
-<!--                   BANNER IMAGE                     -->
-<!-- ══════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                     ANIMATED HEADER WAVE                       -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-<img src="https://raw.githubusercontent.com/phulkeshwarr/phulkeshwarr/main/assets/banner.png" alt="Phulkeshwar Mahto" width="180" style="border-radius:16px;" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Phulkeshwar%20Mahto&fontSize=52&fontColor=38BDF8&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Computer%20Engineering%20%40%20NIAMT%20Ranchi&descSize=17&descAlignY=60&descColor=94A3B8&animation=twinkling" />
 
-<br/>
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                     TYPING ANIMATION                           -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-<!-- ══════════════════════════════════════════════════ -->
-<!--                   HEADING                          -->
-<!-- ══════════════════════════════════════════════════ -->
-
-<h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  Hi, I'm Phulkeshwar Mahto
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-<!-- ══════════════════════════════════════════════════ -->
-<!--               TYPING ANIMATION                     -->
-<!-- ══════════════════════════════════════════════════ -->
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=MERN+Stack+Web+Developer+%F0%9F%9A%80;C%2B%2B+%7C+DSA+Learner+%F0%9F%A7%A0;Building+Scalable+Web+Applications+%F0%9F%8C%90;Passionate+about+Clean+Code+%26+Systems+%E2%9A%99%EF%B8%8F;Backend+%7C+APIs+%7C+WebRTC+%7C+Redis+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=MERN+Stack+Web+Developer+%F0%9F%9A%80;WebRTC+%7C+Redis+%7C+Socket.io+Explorer+%F0%9F%94%A5;C%2B%2B+%7C+DSA+Learner+(Striver+A2Z)+%F0%9F%A7%A0;Building+Scalable%2C+Real-World+Apps+%F0%9F%8C%90;Open+to+Internships+%26+Open+Source+%F0%9F%A4%9D" alt="Typing SVG" />
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════ -->
-<!--               PROFILE VIEWS + FOLLOWERS            -->
-<!-- ══════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                     BADGES ROW                                 -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=phulkeshwar&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/phulkeshwar?label=Followers&style=for-the-badge&color=38BDF8" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/phulkeshwar?label=Followers&style=for-the-badge&color=38BDF8&labelColor=0d1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20To-Internships-22C55E?style=for-the-badge&logo=circle&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-Ranchi%2C%20India-F59E0B?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 </div>
 
----
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
 
 ```yaml
-name        : Phulkeshwar Mahto
-location    : Ranchi, Jharkhand, India 🇮🇳
-college     : NIAMT (B.Tech Computer Engineering, 2028)
-role        : Full Stack Web Developer (MERN)
-current     :
-  - Building real-world, industry-grade projects
-  - Learning C++ & DSA (Striver A2Z Sheet)
-  - Exploring WebRTC, Redis & System Design
-interests   : Backend • APIs • WebRTC • System Design
-open_to     : Freelance Work • Open Source • Internships
+👤 name        : Phulkeshwar Mahto
+🏫 college     : NIAMT Ranchi (B.Tech Computer Engineering, 2024 → 2028)
+📍 location    : Ranchi, Jharkhand, India 🇮🇳
+💼 role        : Full Stack Web Developer (MERN)
+
+🔭 currently   :
+  - Building NIAMT Racing — Formula Student Team Website (niamtracing.in)
+  - Building Call.io     — Anonymous WebRTC Calling & Chat App
+  - Grinding Striver A2Z DSA Sheet (C++)
+
+🌱 learning    :
+  - WebRTC | Redis | Socket.io | System Design
+  - TypeScript | Docker | CI/CD
+
+⚡ interests   : Backend • REST APIs • Real-Time Systems • Open Source
+
+🤝 open_to     : Internships • Freelance • Open Source Collaboration
+📫 contact     : phulkeshwar.e@gmail.com
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Stack
 
@@ -76,46 +78,126 @@ open_to     : Freelance Work • Open Source • Internships
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux,cloudflare,vercel&theme=dark" />
 </p>
 
+### 📦 Libraries & APIs
+<p align="left">
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+</p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
-| Project | Tech | Live |
-|---|---|---|
-| 🏎️ **NIAMT Racing** — Official Formula Student Team Website | MERN, Cloudinary, SEO | [niamtracing.in](https://niamtracing.in) |
-| 📞 **Call.io** — Anonymous WebRTC Calling & Chat App | WebRTC, Redis, Socket.io | [callrandom.vercel.app](https://callrandom.vercel.app) |
+| 🏷️ Project | 📝 Description | 🛠️ Tech Stack | 🔗 Live |
+|:---|:---|:---|:---:|
+| 🏎️ **NIAMT Racing** | Official Formula Student Team Website with Cloudinary CDN & SEO | `MERN` `Cloudinary` `Railway` `Vercel` | [niamtracing.in](https://niamtracing.in) |
+| 📞 **Call.io** | Anonymous real-time WebRTC calling & chat, Redis-backed for ~100k users | `WebRTC` `Redis` `Socket.io` `Node.js` | [callrandom.vercel.app](https://callrandom.vercel.app) |
+| 🌐 **MyPortfolio** | Personal portfolio showcasing projects & skills, deployed on GitHub Pages | `HTML` `CSS` `JavaScript` | [View →](https://phulkeshwar.github.io/MyPortfolio) |
+| ✈️ **TravellingNepal** | Visually rich multi-page travel guide for Nepal destinations | `HTML` `CSS` `JavaScript` | [View →](https://phulkeshwar.github.io/travellingNepal) |
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+
+| Area | Progress |
+|:---|:---|
+| 🧠 DSA — Striver A2Z Sheet (C++) | `████████░░` 80%+ problems |
+| ⚛️ React + TypeScript | `███████░░░` Advancing |
+| 🔴 Redis + Socket.io (Scaling) | `██████░░░░` Building |
+| 🐳 Docker & CI/CD | `████░░░░░░` Learning |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<!-- Stats + Streak side by side -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phulkeshwar&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+&nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phulkeshwar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" />
 
 </div>
 
 <br/>
 
-<!-- Streak Stats -->
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=phulkeshwar&theme=tokyonight&hide_border=true&background=0d1117&ring=38BDF8&fire=FF6B6B&currStreakLabel=38BDF8" alt="GitHub Streak" />
 </div>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- Contribution Graph -->
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+> ⚙️ **Setup:** Add `.github/workflows/snake.yml` to generate this animation automatically.
+
+```yaml
+# .github/workflows/snake.yml
+name: Generate Snake
+on:
+  schedule: [{ cron: "0 0 * * *" }]
+  workflow_dispatch:
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: phulkeshwar
+          outputs: |
+            dist/github-snake.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Once set up, replace this block with:
+
+```
+<img src="https://raw.githubusercontent.com/phulkeshwar/phulkeshwar/output/github-snake.svg" />
+```
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+## 📈 Contribution Graph
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=phulkeshwar&theme=tokyo-night&bg_color=0d1117&color=38BDF8&line=38BDF8&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
 
 ## 🏆 GitHub Trophies
 
@@ -125,12 +207,13 @@ open_to     : Freelance Work • Open Source • Internships
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📈 Contribution Metrics
+---
+
+## 📋 Profile Summary Cards
 
 <div align="center">
 
-<!-- WakaTime or alternate metric badges -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phulkeshwar&theme=tokyonight" alt="Profile Summary" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phulkeshwar&theme=tokyonight" width="100%" />
 
 <br/>
 
@@ -148,23 +231,57 @@ open_to     : Freelance Work • Open Source • Internships
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🤝 Connect With Me
+---
+
+## 💬 Dev Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+---
+
+## 🎓 Certifications & Achievements
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-phulkeshwar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/phulkeshwarmahto)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-phulkeshwar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/phulkeshwar)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://callrandom.vercel.app)
+| 🏅 Award / Cert | 🏢 Issuer |
+|:---|:---:|
+| 🤖 Bring AI to Work Workshop | Google |
+| ☁️ Google Cloud Foundations | Google Cloud |
+| 🌍 Google Cloud Adventures | Google Cloud |
+| 🦈 Pull Shark Badge | GitHub |
+| 🎯 YOLO Badge | GitHub |
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+---
+
+## 🤝 Connect With Me
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+[![GitHub](https://img.shields.io/badge/GitHub-phulkeshwar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/phulkeshwar)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-phulkeshwar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/phulkeshwar)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-MyPortfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://phulkeshwar.github.io/MyPortfolio)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-phulkeshwar.e@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phulkeshwar.e@gmail.com)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                     FOOTER WAVE                                -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=twinkling" />
+
+<div align="center">
 
 ### ⚡ Keep Learning. Keep Building.
 
