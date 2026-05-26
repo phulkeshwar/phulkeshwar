@@ -147,9 +147,7 @@
 
 <div align="center">
 
-```
 <img src="https://raw.githubusercontent.com/phulkeshwar/phulkeshwar/output/github-snake.svg" />
-```
 
 </div>
 
