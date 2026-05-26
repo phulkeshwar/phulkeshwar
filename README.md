@@ -31,9 +31,9 @@
 <!-- ══════════════════════════════════════════════════ -->
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=phulkeshwarmahto&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=phulkeshwar&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/phulkeshwarmahto?label=Followers&style=for-the-badge&color=38BDF8" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/phulkeshwar?label=Followers&style=for-the-badge&color=38BDF8" alt="Followers" />
 </p>
 
 </div>
@@ -96,8 +96,8 @@ open_to     : Freelance Work • Open Source • Internships
 <div align="center">
 
 <!-- Stats + Streak side by side -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=phulkeshwarmahto&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phulkeshwarmahto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=phulkeshwar&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phulkeshwar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" />
 
 </div>
 
@@ -105,14 +105,14 @@ open_to     : Freelance Work • Open Source • Internships
 
 <!-- Streak Stats -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=phulkeshwarmahto&theme=tokyonight&hide_border=true&background=0d1117&ring=38BDF8&fire=FF6B6B&currStreakLabel=38BDF8" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=phulkeshwar&theme=tokyonight&hide_border=true&background=0d1117&ring=38BDF8&fire=FF6B6B&currStreakLabel=38BDF8" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <!-- Contribution Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phulkeshwarmahto&theme=tokyo-night&bg_color=0d1117&color=38BDF8&line=38BDF8&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phulkeshwar&theme=tokyo-night&bg_color=0d1117&color=38BDF8&line=38BDF8&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -120,7 +120,7 @@ open_to     : Freelance Work • Open Source • Internships
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=phulkeshwarmahto&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=phulkeshwar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -130,19 +130,19 @@ open_to     : Freelance Work • Open Source • Internships
 <div align="center">
 
 <!-- WakaTime or alternate metric badges -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phulkeshwarmahto&theme=tokyonight" alt="Profile Summary" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phulkeshwar&theme=tokyonight" alt="Profile Summary" width="100%" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phulkeshwarmahto&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phulkeshwar&theme=tokyonight" />
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phulkeshwarmahto&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phulkeshwar&theme=tokyonight" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phulkeshwarmahto&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phulkeshwar&theme=tokyonight" />
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=phulkeshwarmahto&theme=tokyonight&utcOffset=5.5" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=phulkeshwar&theme=tokyonight&utcOffset=5.5" />
 
 </div>
 
@@ -152,7 +152,7 @@ open_to     : Freelance Work • Open Source • Internships
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-phulkeshwarmahto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/phulkeshwarmahto)
+[![GitHub](https://img.shields.io/badge/GitHub-phulkeshwar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/phulkeshwarmahto)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-phulkeshwar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/phulkeshwar)
 &nbsp;
