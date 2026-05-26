@@ -222,7 +222,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-MyPortfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://phulkeshwar.github.io/MyPortfolio)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-phulkeshwar.e@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phulkeshwar.e@gmail.com)
-[![X](https://img.shields.io/badge/X-@username-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/phulkeshwar2005)
+[![X](https://img.shields.io/badge/X-@phulkeshwar2005-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/phulkeshwar2005)
 &nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-phulkeshwar-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/phulkeshwar)
 &nbsp;
