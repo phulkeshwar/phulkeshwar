@@ -175,6 +175,14 @@
 
 ---
 
+## 📊 Detailed Metrics
+
+<div align="center">
+  <img src="https://metrics.lecoq.io/phulkeshwar?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=1&achievements.display=detailed&config.timezone=Asia%2FKolkata" />
+</div>
+
+---
+
 ## 📋 Profile Summary Cards
 
 <div align="center">
