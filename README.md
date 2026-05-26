@@ -147,34 +147,6 @@
 
 <div align="center">
 
-
-> ⚙️ **Setup:** Add `.github/workflows/snake.yml` to generate this animation automatically.
-
-```yaml
-# .github/workflows/snake.yml
-name: Generate Snake
-on:
-  schedule: [{ cron: "0 0 * * *" }]
-  workflow_dispatch:
-jobs:
-  snake:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: phulkeshwar
-          outputs: |
-            dist/github-snake.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Once set up, replace this block with:
-
 ```
 <img src="https://raw.githubusercontent.com/phulkeshwar/phulkeshwar/output/github-snake.svg" />
 ```
