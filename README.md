@@ -42,11 +42,6 @@
 📍 location    : Ranchi, Jharkhand, India 🇮🇳
 💼 role        : Full Stack Web Developer (MERN)
 
-🔭 currently   :
-  - Building NIAMT Racing — Formula Student Team Website (niamtracing.in)
-  - Building Call.io     — Anonymous WebRTC Calling & Chat App
-  - Grinding Striver A2Z DSA Sheet (C++)
-
 🌱 learning    :
   - WebRTC | Redis | Socket.io | System Design
   - TypeScript | Docker | CI/CD
@@ -103,7 +98,7 @@
 | 🏎️ **NIAMT Racing** | Official Formula Student Team Website with Cloudinary CDN & SEO | `MERN` `Cloudinary` `Railway` `Vercel` | [niamtracing.in](https://niamtracing.in) |
 | 📞 **Call.io** | Anonymous real-time WebRTC calling & chat, Redis-backed for ~100k users | `WebRTC` `Redis` `Socket.io` `Node.js` | [callrandom.vercel.app](https://callrandom.vercel.app) |
 | 🌐 **MyPortfolio** | Personal portfolio showcasing projects & skills, deployed on GitHub Pages | `HTML` `CSS` `JavaScript` | [View →](https://phulkeshwar.github.io/MyPortfolio) |
-| ✈️ **TravellingNepal** | Visually rich multi-page travel guide for Nepal destinations | `HTML` `CSS` `JavaScript` | [View →](https://phulkeshwar.github.io/travellingNepal) |
+| ✈️ **MedScribe-AI** | AI-Powered Clinical Assistant — Built for the Gemma 4 Good Hackathon (Kaggle × Google DeepMind) | `MERN` `CSS` `JavaScript` | [View →](https://github.com/phulkeshwar/MedScribe-AI.git) |
 
 </div>
 
@@ -117,7 +112,7 @@
 
 | Area | Progress |
 |:---|:---|
-| 🧠 DSA — Striver A2Z Sheet (C++) | `████████░░` 80%+ problems |
+| 🧠 DSA — Striver A2Z Sheet (C++) |
 | ⚛️ React + TypeScript | `███████░░░` Advancing |
 | 🔴 Redis + Socket.io (Scaling) | `██████░░░░` Building |
 | 🐳 Docker & CI/CD | `████░░░░░░` Learning |
@@ -151,33 +146,6 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-
-> ⚙️ **Setup:** Add `.github/workflows/snake.yml` to generate this animation automatically.
-
-```yaml
-# .github/workflows/snake.yml
-name: Generate Snake
-on:
-  schedule: [{ cron: "0 0 * * *" }]
-  workflow_dispatch:
-jobs:
-  snake:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: phulkeshwar
-          outputs: |
-            dist/github-snake.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Once set up, replace this block with:
 
 ```
 <img src="https://raw.githubusercontent.com/phulkeshwar/phulkeshwar/output/github-snake.svg" />
