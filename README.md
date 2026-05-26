@@ -177,8 +177,10 @@
 
 ## 📊 Detailed Metrics
 
+## 🏆 Achievements
+
 <div align="center">
-  <img src="https://metrics.lecoq.io/phulkeshwar?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=1&achievements.display=detailed&config.timezone=Asia%2FKolkata" />
+  <img src="https://github-readme-stats.vercel.app/api?username=phulkeshwar&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
