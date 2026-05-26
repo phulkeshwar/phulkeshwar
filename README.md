@@ -207,20 +207,6 @@
 
 ---
 
-## 🎓 Certifications & Achievements
-
-<div align="center">
-
-| 🏅 Award / Cert | 🏢 Issuer |
-|:---|:---:|
-| 🤖 Bring AI to Work Workshop | Google |
-| ☁️ Google Cloud Foundations | Google Cloud |
-| 🌍 Google Cloud Adventures | Google Cloud |
-| 🦈 Pull Shark Badge | GitHub |
-| 🎯 YOLO Badge | GitHub |
-
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
@@ -236,7 +222,15 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-MyPortfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://phulkeshwar.github.io/MyPortfolio)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-phulkeshwar.e@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phulkeshwar.e@gmail.com)
-
+[![X](https://img.shields.io/badge/X-@username-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/phulkeshwar2005)
+&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-phulkeshwar-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/phulkeshwar)
+&nbsp;
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-phulkeshwar-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/phulkeshwar)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-@phulkeshwarmahto2005-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/phulkeshwarmahto2005)
+&nbsp;
+[![Codolio](https://img.shields.io/badge/Codolio-phulkeshwar-6C63FF?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/phulkeshwar)
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
