@@ -97,8 +97,8 @@
 |:---|:---|:---|:---:|
 | 🏎️ **NIAMT Racing** | Official Formula Student Team Website with Cloudinary CDN & SEO | `MERN` `Cloudinary` `Railway` `Vercel` | [niamtracing.in](https://niamtracing.in) |
 | 📞 **Call.io** | Anonymous real-time WebRTC calling & chat, Redis-backed for ~100k users | `WebRTC` `Redis` `Socket.io` `Node.js` | [callrandom.vercel.app](https://callrandom.vercel.app) |
-| 🌐 **MyPortfolio** | Personal portfolio showcasing projects & skills, deployed on GitHub Pages | `HTML` `CSS` `JavaScript` | [View →](https://phulkeshwar.github.io/MyPortfolio) |
-| ✈️ **MedScribe-AI** | AI-Powered Clinical Assistant — Built for the Gemma 4 Good Hackathon (Kaggle × Google DeepMind) | `MERN` `CSS` `JavaScript` | [View →](https://github.com/phulkeshwar/MedScribe-AI.git) |
+| 🌐 **MyPortfolio** | Personal portfolio showcasing projects & skills, deployed on GitHub Pages | `HTML` `CSS` `JavaScript` | [View →](https://phulkeshwar.vercel.app/) |
+| ✈️ **MedScribe-AI** | AI-Powered Clinical Assistant — Built for the Gemma 4 Good Hackathon (Kaggle × Google DeepMind) | `MERN` `CSS` `JavaScript` | [View →](https://medscribe-ai-ruby.vercel.app/) |
 
 </div>
 
