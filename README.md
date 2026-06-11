@@ -219,7 +219,7 @@
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-phulkeshwar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/phulkeshwar)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-MyPortfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://phulkeshwar.github.io/MyPortfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-phulkeshwar-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://phulkeshwar.vercel.app)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-phulkeshwar.e@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phulkeshwar.e@gmail.com)
 [![X](https://img.shields.io/badge/X-@phulkeshwar2005-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/phulkeshwar2005)
