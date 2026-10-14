@@ -222,13 +222,13 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-phulkeshwar-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://phulkeshwar.vercel.app)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-phulkeshwar.e@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phulkeshwar.e@gmail.com)
-[![X](https://img.shields.io/badge/X-@phulkeshwar2005-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/phulkeshwar2005)
+[![X](https://img.shields.io/badge/X-@phulkeshwarr-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/phulkeshwarr)
 &nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-phulkeshwar-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/phulkeshwar)
 &nbsp;
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-phulkeshwar-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/phulkeshwar)
 &nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-@phulkeshwarmahto2005-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/phulkeshwarmahto2005)
+[![Instagram](https://img.shields.io/badge/Instagram-@phulkeshwarr-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/phulkeshwarr)
 &nbsp;
 [![Codolio](https://img.shields.io/badge/Codolio-phulkeshwar-6C63FF?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/phulkeshwar)
 </div>
